@@ -8,8 +8,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
+
 	<name>devopsbuddy</name>
 	<description>startup-ready web skeleton project</description>
+
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
